@@ -1,0 +1,3 @@
+# Keep LF endings on Windows checkouts so the XML served from GitHub is the same everywhere.
+* text=auto eol=lf
+*.png binary

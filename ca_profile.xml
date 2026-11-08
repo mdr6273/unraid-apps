@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>Unraid templates from Richardson Resources (https://www.richardsonresources.com): Docker applications, and in future plugins, that we build and maintain. The first is No Fixed Address, self-hosted dynamic DNS for Cloudflare: a small container that keeps your DNS records pointed at your server's current public IP address, with no third-party account to renew. Each template links to its own project page and issue tracker, which is the place for help with that app. For a problem with a template itself, open an issue at https://github.com/mdr6273/unraid-apps/issues.</Profile>
+  <Icon>https://www.richardsonresources.com/images/brand/richardson-resources-600x600.png</Icon>
+  <WebPage>https://github.com/mdr6273/unraid-apps</WebPage>
+</CommunityApplications>
