@@ -40,6 +40,7 @@ Setup instructions for each app are on its project page.
 | Path | What it is |
 | --- | --- |
 | `ca_profile.xml` | The repository's profile in Community Applications: description, icon and homepage. It has to stay in the repository root, with a non-empty `<Profile>`. |
+| `icon.png` | The Richardson Resources logo that `ca_profile.xml` shows as the repository's icon. |
 | `templates/` | One XML file per Docker application. |
 | `icons/` | The icons the templates point at. Keep each icon's file name stable, because installed containers keep its URL. |
 | `plugins/` | One XML wrapper per Unraid plugin. Not present yet; see below. |
@@ -114,3 +115,7 @@ README. Any other app that keeps such a copy should do the same.
 icons come from the
 [no-fixed-address](https://github.com/mdr6273/no-fixed-address) repository,
 which is published under the same MIT license by the same author.
+
+The MIT license does not cover the Richardson Resources name or logo
+(`icon.png`). They identify who publishes these templates, and are not for
+use with other projects.
